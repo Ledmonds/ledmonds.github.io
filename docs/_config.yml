@@ -1,0 +1,13 @@
+title: Leuan (Jaymz) Edmonds
+email: leuan.edmonds@gmail.com
+description: ""
+baseurl: ""
+url: "https://ledmonds.github.io"
+twitter_username: ""
+github_username:  "ledmonds"
+domain: ledmonds.github.io
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
